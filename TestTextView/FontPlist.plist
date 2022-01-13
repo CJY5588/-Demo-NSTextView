@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fontSize</key>
+	<integer>18</integer>
+	<key>fontName</key>
+	<string>华文宋体</string>
+	<key>fontColor</key>
+	<dict>
+		<key>red</key>
+		<integer>0</integer>
+		<key>green</key>
+		<integer>0</integer>
+		<key>blue</key>
+		<integer>0</integer>
+		<key>alpha</key>
+		<integer>1</integer>
+	</dict>
+	<key>bgColor</key>
+	<dict>
+		<key>red</key>
+		<real>0.890196</real>
+		<key>green</key>
+		<real>0.890196</real>
+		<key>blue</key>
+		<real>0.890196</real>
+		<key>alpha</key>
+		<integer>1</integer>
+		<key>index</key>
+		<integer>1</integer>
+	</dict>
+	<key>fontKern</key>
+	<integer>5</integer>
+	<key>lineSpacing</key>
+	<integer>12</integer>
+	<key>paragraphSpacingBefore</key>
+	<integer>0</integer>
+	<key>sideDistance</key>
+	<integer>0</integer>
+</dict>
+</plist>
